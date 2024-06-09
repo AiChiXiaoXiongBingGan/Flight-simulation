@@ -58,7 +58,7 @@ The PID algorithm is a control loop mechanism employing feedback that is widely 
 ## 📸 Screenshots
 
 <div align="center">
-    <img src="https://github.com/yourusername/yourrepository/raw/main/screenshots/simulation_running.png" alt="Simulation Running" width="600">
+    <img src="https://github.com/AiChiXiaoXiongBingGan/Flight-simulation/blob/main/fig1.png" alt="Simulation Running" width="300">
     <p><em>Figure 1: Flight control simulation in action.</em></p>
 </div>
 
