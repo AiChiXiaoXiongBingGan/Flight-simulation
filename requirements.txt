@@ -1,0 +1,8 @@
+dronekit==2.9.2
+ipython==8.4.0
+matplotlib==3.5.3
+numpy==1.23.2
+Pillow==9.2.0
+pygame==2.1.2
+pyqtgraph==0.12.4
+scipy==1.9.0
